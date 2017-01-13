@@ -1,0 +1,22 @@
+{
+  "name": "my-beauty-stash",
+  "version": "1.0.0",
+  "description": "AngularJS version of makeupFun JavaScript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spialelo/my-beauty-stash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spialelo/my-beauty-stash/issues"
+  },
+  "homepage": "https://github.com/spialelo/my-beauty-stash#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
